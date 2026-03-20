@@ -73,11 +73,11 @@
 		"simply-delightful-text": "Aurora propose un bureau KDE Plasma légèrement personnalisé pour une expérience super fluide et agréable qui peut être personnalisée à l'infini.",
 		"simply-delightful-purple": " Vous pouvez même déplacer la barre des tâches.",
 		"speed-reliability": "Vitesse et Fiabilité",
-		"speed-reliability-text": "Parfaitement réglé et optimisé, pour une efficacité et une fiabilité maximales comme une pièce d'horlogerie.",
+		"speed-reliability-text": "Une pièce d'horlogerie parfaitement réglée et optimisée, pour une efficacité et une fiabilité maximales.",
 		"speed-reliability-purple": "Une expérience utilisateur inégalée.",
 		"zero-maintenance": "Zéro maintenance",
-		"zero-maintenance-text": "Une seule installation du système suffit. Les mises à jour de vos applications et du système sont gérées en arrière-plan pour vous.",
-		"zero-maintenance-purple": "Personnalisez puis profitez, le système s'occupe du reste.",
+		"zero-maintenance-text": "Une seule installation du système suffira. Les mises à jour de vos applications et du système sont gérées en arrière-plan pour vous.",
+		"zero-maintenance-purple": "Personnalisez puis profitez, tout simplement.",
 		"hardware-support": "Support matériel",
 		"hardware-support-text": "Nous avons des versions spécifiques  pour les utilisateurs Surface et ASUS et toutes incluent un support matériel étendu pour les manettes de jeu, les imprimantes et bien plus encore.",
 		"hardware-support-purple": "N'oubliez pas d'imprimer les factures du vaisseau spatial."
@@ -90,35 +90,35 @@
 		"brew-ready-red": "Pression immédiate.",
 		"containers-best-friends": "Les conteneurs, vos meilleurs amis.",
 		"containers-best-friends-text": "Docker et Podman sont préconfigurés pour convenir à tous types de workflows, y compris une expérience CLI conteneurisée. Et avec Konsole, votre distrobox n'est qu'à un clic.",
-		"containers-best-friends-red": "Ne dites plus jamais 'ça marche sur ma machine'.",
-		"preconfigured-work": "Préconfiguré et prêt pour un travail sérieux.",
-		"preconfigured-work-text": "Visual Studio Code est préinstallé et déjà préconfiguré pour supporter les flux de travail impliquant les DevContainers. Et avec une seule commande, vous pouvez récupérer Jetbrains Toolbox si vous préférez le café.",
+		"containers-best-friends-red": "Ne dites plus jamais 'ça marche sur ma config'.",
+		"preconfigured-work": "Préconfiguré et prêt pour un travail exigeant.",
+		"preconfigured-work-text": "Visual Studio Code est préinstallé et déjà préconfiguré pour s'adapter aux workflows qui utilisent des DevContainers. Et avec une seule commande, vous pouvez récupérer Jetbrains Toolbox si vous préférez le café.",
 		"preconfigured-work-red": "Ou utilisez neovim si vous savez comment en sortir.",
 		"robots-take-over": "Laissez les robots prendre le contrôle.",
-		"robots-take-over-text": "Si vous aimez les LLM locaux ou faites du travail d'apprentissage automatique, Aurora vous couvre là aussi. Exécutez des LLM privés avec Ollama, lancez une distrobox pytorch pour du travail IA sérieux.",
+		"robots-take-over-text": "Si vous aimez les LLM locaux ou faites du travail d'apprentissage automatique, Aurora est également là pour vous. Exécutez des LLM privés avec Ollama, lancez une distrobox pytorch pour du travail IA important.",
 		"robots-take-over-red": "Utilisez les robots à votre avantage."
 	},
 	"Build-Your-Own": {
-		"build-your-own": "Construisez Votre Propre Aurora",
-		"want-to-build": "Voulez-vous construire votre propre image ? Voulez-vous étendre Aurora avec vos thèmes personnalisés et vos ornements ? Utilisez notre modèle d'image pour vous aider à commencer. Tout ce dont vous avez besoin est quelques connaissances pratiques sur la conteneurisation avec Docker et un peu de temps. Allons-y !",
+		"build-your-own": "Construisez votre propre Aurora",
+		"want-to-build": "Vous voulez construire votre propre image ? Personnaliser votre image Aurora avec vos thèmes personnalisés dans les moindres détails ? Utilisez notre modèle d'image pour vous aider à commencer. Vous avez simplement besoin de quelques connaissances sur la conteneurisation avec Docker et d'un peu de temps. Allons-y !",
 		"get-image-template": "Obtenir le modèle d'image"
 	},
 	"Footer": {
 		"go-up": "Remonter",
 		"proudly-built": "Fièrement construit avec",
-		"proudly-built-phrase": "une boîte à outils communautaire conçue pour redémarrer le bureau Linux. Construit par amour du jeu. Bienvenue dans Indie Cloud Native.",
+		"proudly-built-phrase": "une boîte à outils communautaire conçue pour réinventer le bureau Linux. Construit par amour du jeu. Bienvenue dans Indie Cloud Native.",
 		"built-with-love": "Construit avec ❤️ par des contributeurs du monde entier.",
 		"refined-logo": "Logo raffiné construit par @reisvg.",
-		"background-credits": "Crédits Image de Fond : ",
-		"background-images": "Images de Fond par Jonatan Pie de",
-		"animated-icons": "Icônes Animées de",
+		"background-credits": "Crédits image d'arrière plan : ",
+		"background-images": "Images d'arrière plan de Jonatan Pie de",
+		"animated-icons": "Icônes animées de",
 		"link-icons": "ici.",
-		"copyright": "© Copyright auteurs du Projet Aurora.",
+		"copyright": "© Copyright auteurs du projet Aurora.",
 		"not-affiliated": "Aurora n'est pas affilié et ou approuvé par Le Projet Fedora, KDE e.V., Le Projet KDE, Red Hat, Microsoft, ASUS ou toute autre entreprise mentionnée ci-dessus."
 	},
 	"FAQ": {
 		"faq-title": "FAQ Aurora",
-		"faq-intro": "Intéressé par plus de détails ? Trouvez des réponses aux questions les plus brûlantes.",
+		"faq-intro": "Vous souhaitez en savoir plus ? Trouvez des réponses aux questions les plus essentielles.",
 		"click-here": "Cliquez ici !",
 		"questions": {
 			"q1": {
@@ -128,18 +128,18 @@
 			},
 			"q2": {
 				"question": "Qu'est-ce qu'Aurora Developer Edition ? (Aurora-DX) ?",
-				"answer": "Aurora Developer Edition est une édition spéciale d'Aurora proposant divers paquets supplémentaires qui s'adressent à un public de développeurs. Ceux-ci incluent VS Code préinstallé avec des capacités DevContainer, Docker et Podman comme environnements d'exécution de conteneurs, des outils pour créer et gérer des machines virtuelles, des outils pour créer un environnement de développement conteneurisé avec DevPod et bien plus encore. L'expérience développeur inclut également divers outils pour les développeurs cloud-native. Vous pouvez toujours en installer plus via brew ! Si vous voulez la liste brute des paquets, cliquez sur le lien.",
+				"answer": "Aurora Developer Edition est une version spéciale d'Aurora proposant divers paquets supplémentaires qui s'adressent à un public de développeurs. Ceux-ci incluent VS Code préinstallé avec des capacités DevContainer, Docker et Podman comme environnements d'exécution de conteneurs, des outils pour créer et gérer des machines virtuelles, des outils pour créer un environnement de développement conteneurisé avec DevPod et bien plus encore. L'expérience développeur inclut également divers outils pour les développeurs cloud-native. Vous pouvez toujours en installer plus via brew ! Si vous voulez la liste complète des paquets, cliquez sur le lien.",
 				"optionalLink": "https://github.com/ublue-os/bluefin/blob/main/packages.json"
 			},
 			"q3": {
-				"question": "Quelle est la différence entre Vanilla Kinoite et Aurora ?",
-				"answer": "Vanilla Kinoite est une expérience très basique. Aurora inclut de nombreuses améliorations et ajustements, comme des pilotes inclus pour diverses imprimantes, adaptateurs réseau, manettes de jeu et plus encore ainsi que des codecs inclus.",
+				"question": "Quelle est la différence entre Fedora Kinoite et Aurora ?",
+				"answer": "Fedora Kinoite est une expérience très basique. Aurora inclut de nombreuses améliorations et ajustements, comme des pilotes inclus pour diverses imprimantes, adaptateurs réseau, manettes de jeu et plus encore ainsi que des codecs.",
 				"optionalLink": ""
 			},
 			"q4": {
-				"question": "Où puis-je obtenir les dernières nouvelles et discussions sur Aurora ?",
-				"answer": "Consultez nos forums Discourse pour les dernières mises à jour et discussions sur Aurora.",
-				"optionalLink": "https://universal-blue.discourse.group/c/bluefin/6"
+				"question": "Où puis-je trouver les dernières nouvelles et discussions sur Aurora ?",
+				"answer": "Consultez nos Discussions Github pour les dernières mises à jour et discussions sur Aurora.",
+				"optionalLink": "https://github.com/ublue-os/aurora/discussions"
 			}
 		}
 	},
