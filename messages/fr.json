@@ -172,22 +172,22 @@
 		"homebrew-highlight": "Les outils de développement n'ont jamais été aussi pratiques."
 	},
 	"Your-New-Desktop": {
-		"title": "Ceci est votre nouveau bureau.",
-		"subtitle": "Allumez et sentez-vous chez vous dès le premier moment d'utilisation de votre ordinateur. Aucune distraction ou publicité. Développez plus vite que jamais. Explorez la galaxie. Écrivez votre prochain roman.",
+		"title": "Voici votre nouveau bureau.",
+		"subtitle": "Sentez-vous chez vous dès les premiers instants. Sans distraction ni publicité. Développez plus vite que jamais. Explorez la galaxie. Écrivez votre prochain roman.",
 		"kde-title": "Construit avec KDE Plasma.",
-		"kde-text": "Aurora est construit autour de l'Environnement de Bureau KDE Plasma personnalisable et adaptable, soigneusement personnalisé par nous pour fournir la meilleure expérience prête à l'emploi.",
-		"kde-highlight": "Sentez-vous chez vous dès le premier jour.",
-		"defaults-title": "Paramètres par défaut sensés",
-		"defaults-text": "Avec un ensemble d'applications soigneusement sélectionnées et de paramètres par défaut choisis, Aurora est construit pour un usage quotidien et est facile, amusant et productif. Il prend soin de vous et travaille à vos côtés.",
-		"defaults-highlight": "Tout configuré, rien à craindre."
+		"kde-text": "Aurora est construit autour de l'environnement de bureau KDE Plasma, soigneusement personnalisé par nos soins pour fournir la meilleure expérience clé en main.",
+		"kde-highlight": "Sentez-vous immédiatement chez vous.",
+		"defaults-title": "Des paramètres par défaut bien pensés",
+		"defaults-text": "Avec un ensemble d'applications et de paramètres par défaut soigneusement choisis, Aurora est conçu pour un usage quotidien, tout en étant facile, amusant et productif. Il prend soin de vous et travaille à vos côtés.",
+		"defaults-highlight": "Tout est configuré, soyez tranquille."
 	},
 	"Paradigm-Shift": {
 		"title": "Aurora est un changement de paradigme pour Linux.",
-		"subtitle": "Pour repenser l'expérience du Bureau Linux depuis la base, nous avons construit Aurora sur de nouvelles technologies et principes. Qu'est-ce que cela signifie pour vous ?",
+		"subtitle": "Pour repenser complètement l'expérience du bureau Linux, nous avons construit Aurora à partir de nouveaux principes et technologies. Quels sont les avantages pour vous ?",
 		"rock-solid": "Solide comme un roc.",
-		"rock-solid-text-1": "Nous avons construit Aurora sur une technologie et des principes complètement différents par rapport à un Bureau Linux normal.",
-		"rock-solid-text-2": "Les mises à jour sont construites et testées avant qu'elles ne vous atteignent et sont une image unique qui s'applique en arrière-plan.",
-		"rock-solid-text-3": "Et si une nouvelle version d'Aurora casse quelque chose, vous pouvez revenir à un état connu comme bon.",
+		"rock-solid-text-1": "Nous avons construit Aurora à partir d'une technologie et des principes complètement différents par rapport à un bureau Linux traditionnel.",
+		"rock-solid-text-2": "Les mises à jour sont conçues et testées avant d'être déployées en une image unique qui s'applique en arrière-plan.",
+		"rock-solid-text-3": "Et si une nouvelle version d'Aurora casse quelque chose, vous pouvez revenir à une version antérieure fiable.",
 		"rock-solid-highlight": "Basé sur image est l'avenir.",
 		"app-store": "Un magasin d'applications unifié.",
 		"app-store-text": "Utilisant la puissance du Magasin d'Applications Flathub, nous avons un magasin unifié et unique pour les développeurs d'applications et les utilisateurs d'applications. Pour la première fois, il y a un magasin d'applications unifié pour la plateforme Linux où les développeurs peuvent publier leurs applications facilement et gagner de l'argent pour soutenir leur travail OSS.",
