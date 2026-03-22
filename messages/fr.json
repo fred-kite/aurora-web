@@ -100,13 +100,13 @@
 	},
 	"Build-Your-Own": {
 		"build-your-own": "Construisez votre propre Aurora",
-		"want-to-build": "Vous voulez construire votre propre image ? Personnaliser votre image Aurora avec vos thèmes personnalisés dans les moindres détails ? Utilisez notre modèle d'image pour vous aider à commencer. Vous avez simplement besoin de quelques connaissances sur la conteneurisation avec Docker et d'un peu de temps. Allons-y !",
+		"want-to-build": "Vous voulez construire votre propre image ? Personnalisez votre image Aurora avec vos thèmes personnalisés dans les moindres détails ? Utilisez notre modèle d'image pour vous aider à commencer. Vous avez simplement besoin de quelques connaissances sur la conteneurisation avec Docker et d'un peu de temps. Allons-y !",
 		"get-image-template": "Obtenir le modèle d'image"
 	},
 	"Footer": {
 		"go-up": "Remonter",
 		"proudly-built": "Fièrement construit avec",
-		"proudly-built-phrase": "une boîte à outils communautaire conçue pour réinventer le bureau Linux. Construit par passion. Bienvenue dans le "cloud natif indépendant".",
+		"proudly-built-phrase": "une boîte à outils communautaire conçue pour réinventer le bureau Linux. Créé par passion. Bienvenue dans le cloud natif indépendant.",
 		"built-with-love": "Construit avec ❤️ par des contributeurs du monde entier.",
 		"refined-logo": "Logo raffiné créé par @reisvg.",
 		"background-credits": "Crédits image d'arrière plan : ",
@@ -157,19 +157,19 @@
 	},
 	"For-Developers": {
 		"title": "Aurora pour les développeurs",
-		"subtitle": "S'appuyant sur des fondations solides, Aurora Developer Experience (DX) est conçu pour faciliter la vie des développeurs en empaquetant des outils et applications couramment utilisés en un seul paquet.",
+		"subtitle": "S'appuyant sur des fondations solides, Aurora Developer Experience (DX) est conçu pour faciliter la vie des développeurs en rassemblant les outils et applications les plus courants en un seul paquet.",
 		"local-ai": "Workflows IA locaux",
-		"local-ai-text": "En intégrant les pilotes GPU et les utilitaires couramment utilisés pour l'IA locale, Aurora facilite la mise en route de votre IA.",
+		"local-ai-text": "Aurora facilite la mise en route de votre IA en intégrant les pilotes GPU et les utilitaires les plus courants.",
 		"local-ai-highlight": "Les robots sont là pour vous servir.",
 		"containers": "Outils de conteneurs préinstallés.",
 		"containers-text": "Aurora Developer Experience inclut Docker et Podman, offrant choix et flexibilité pour les workflows conteneurs les plus exigeants.",
 		"containers-highlight": "Cloud-Native n'a jamais été aussi facile.",
-		"dev-tools": "Les outils de développement disponibles en un clic.",
-		"dev-tools-text": "L'expérience développeur inclut des outils de développement couramment utilisés comme VS Code et vient préconfiguré pour les workflows de développement conteneurisés avec DevContainers. Une simple commande et Jetbrains est prêt.",
+		"dev-tools": "Des outils de développement disponibles en un clic.",
+		"dev-tools-text": "L'expérience développeur intègre des outils de développement courants tels que VS Code et est préconfigurée pour les workflows de développement conteneurisés avec DevContainers. Une simple commande et les outils Jetbrains sont prêts.",
 		"dev-tools-highlight": "Tout ce dont vous avez besoin, prêt à l'emploi.",
 		"homebrew": "Homebrew prêt à l'emploi",
-		"homebrew-text": "Dès l'installation, Aurora intègre Hombrew automatiquement, facilitant la découverte, l'installation et la mise à jour de vos outils CLI favoris. Trouvez des milliers de bibliothèques et d'outils dans les bibliothèques brew, intégrés en toute sécurité pour ne jamais interférer avec votre système hôte.",
-		"homebrew-highlight": "Les outils de développement n'ont jamais été aussi pratiques."
+		"homebrew-text": "Aurora intègre Hombrew par défaut, facilitant ainsi la découverte, l'installation et la mise à jour de vos outils CLI favoris. Trouvez des milliers de bibliothèques et d'outils dans le catalogue brew, le tout intégré en toute sécurité pour ne jamais interférer avec votre système hôte.",
+		"homebrew-highlight": "Des outils de développement facilement accessibles."
 	},
 	"Your-New-Desktop": {
 		"title": "Voici votre nouveau bureau.",
@@ -179,18 +179,18 @@
 		"kde-highlight": "Sentez-vous immédiatement chez vous.",
 		"defaults-title": "Des paramètres par défaut bien pensés",
 		"defaults-text": "Avec un ensemble d'applications et de paramètres par défaut soigneusement choisis, Aurora est conçu pour un usage quotidien, tout en étant facile, amusant et productif. Il prend soin de vous et travaille à vos côtés.",
-		"defaults-highlight": "Tout est configuré, soyez tranquille."
+		"defaults-highlight": "Tout est prêt, soyez tranquille."
 	},
 	"Paradigm-Shift": {
 		"title": "Aurora est un changement de paradigme pour Linux.",
-		"subtitle": "Pour repenser complètement l'expérience du bureau Linux, nous avons construit Aurora à partir de nouveaux principes et technologies. Quels sont les avantages pour vous ?",
+		"subtitle": "Pour repenser entièrement l'expérience du bureau Linux, nous avons construit Aurora à partir de nouveaux principes et technologies. Quels sont les avantages pour vous ?",
 		"rock-solid": "Solide comme un roc.",
-		"rock-solid-text-1": "Nous avons construit Aurora à partir d'une technologie et des principes complètement différents par rapport à un bureau Linux traditionnel.",
+		"rock-solid-text-1": "Nous avons construit Aurora à partir d'une technologie et des principes complètement différents de ceux d'un bureau Linux traditionnel.",
 		"rock-solid-text-2": "Les mises à jour sont conçues et testées avant d'être déployées en une image unique qui s'applique en arrière-plan.",
-		"rock-solid-text-3": "Et si une nouvelle version d'Aurora casse quelque chose, vous pouvez revenir à une version antérieure fiable.",
-		"rock-solid-highlight": "Basé sur image est l'avenir.",
-		"app-store": "Un magasin d'applications unifié.",
-		"app-store-text": "Utilisant la puissance du Magasin d'Applications Flathub, nous avons un magasin unifié et unique pour les développeurs d'applications et les utilisateurs d'applications. Pour la première fois, il y a un magasin d'applications unifié pour la plateforme Linux où les développeurs peuvent publier leurs applications facilement et gagner de l'argent pour soutenir leur travail OSS.",
+		"rock-solid-text-3": "Et si une nouvelle version d'Aurora cause problème, vous pouvez revenir à une version antérieure fiable.",
+		"rock-solid-highlight": "Les image-systèmes sont l'avenir.",
+		"app-store": "Un magasin d'applications unique.",
+		"app-store-text": "Aurora intègre un magasin unique pour les développeurs d'applications et les utilisateurs qui s'appuie sur la richesse du magasin d'applications Flathub. Pour la première fois, il y a un magasin d'applications unifié pour la plateforme Linux où les développeurs peuvent publier leurs applications facilement et gagner de l'argent pour soutenir leur travail OSS.",
 		"app-store-highlight": "C'est l'année du Magasin d'Applications Linux.",
 		"checkout-flathub": "Découvrez Flathub",
 		"extendable": "Facilement auditable et extensible.",
