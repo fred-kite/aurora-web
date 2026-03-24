@@ -133,7 +133,7 @@
 			},
 			"q3": {
 				"question": "Quelle est la différence entre Kinoite et Aurora ?",
-				"answer": "Kinoite offre une experience 'brute' contrairement à Aurora qui intègre de nombreuses améliorations et ajustements, comme des pilotes supplémentaires pour diverses imprimantes, adaptateurs réseau, manettes de jeu, etc, ainsi que des codecs.",
+				"answer": "Kinoite offre une experience 'stock' et Aurora y ajoute de nombreuses améliorations et ajustements, comme des pilotes supplémentaires pour diverses imprimantes, adaptateurs réseau, manettes de jeu, etc, ainsi que des codecs.",
 				"optionalLink": ""
 			},
 			"q4": {
@@ -144,25 +144,25 @@
 		}
 	},
 	"For-You": {
-		"title": "Comment Aurora s'adapte-t-il à vous ?",
-		"subtitle": "Voici quelques raisons pour lesquelles vous devriez envisager d'utiliser Aurora.",
+		"title": "Aurora s'adapte à vous",
+		"subtitle": "Voici quelques raisons pour lesquelles vous devriez utiliser Aurora.",
 		"automatic-updates": "Mises à jour automatiques, pour toujours.",
-		"automatic-updates-text": "Aurora télécharge et applique les mises à jour automatiquement en arrière-plan. Cela comprend le système d'exploitation et toutes les applications installées.",
-		"automatic-updates-highlight": "Laissez-nous nous occuper de vos mises à jour.",
+		"automatic-updates-text": "Aurora télécharge et applique les mises à jour automatiquement en arrière-plan, que ce soit le système d'exploitation ou toutes les applications installées.",
+		"automatic-updates-highlight": "Nous nous occupons de vos mises à jour.",
 		"hardware-support": "Compatibilité matérielle étendue.",
 		"hardware-support-text": "Aurora est compatible avec toutes les cartes graphiques et CPU, y compris les GPU de Nvidia. La compatibilité matérielle étendue inclut les manettes de jeu et plus de pilotes d'imprimantes encore.",
-		"hardware-support-highlight": "Jouer ? Pas de problème.",
+		"hardware-support-highlight": "Jouer ? Sans problème.",
 		"helping-you": "Vous aider à chaque étape.",
-		"helping-you-text": "Aurora intègre des scripts et des outils courrants pour vous aider à démarrer rapidement et configurer vos logiciels habituels sans être envahissant."
+		"helping-you-text": "Aurora intègre des scripts et des utilitaires pour vous aider à vous lancer rapidement et configurer vos logiciels habituels."
 	},
 	"For-Developers": {
 		"title": "Aurora pour les développeurs",
-		"subtitle": "S'appuyant sur des fondations solides, Aurora Developer Experience (DX) est conçu pour faciliter la vie des développeurs en rassemblant les outils et applications les plus courants en un seul paquet.",
+		"subtitle": "S'appuyant sur des fondations solides, Aurora Developer Experience (DX) est conçu pour faciliter la vie des développeurs en rassemblant les outils et applications les plus courants dans une seule image.",
 		"local-ai": "Workflows IA locaux",
 		"local-ai-text": "Aurora facilite la mise en route de votre IA en intégrant les pilotes GPU et les utilitaires les plus courants.",
 		"local-ai-highlight": "Les robots sont là pour vous servir.",
-		"containers": "Outils de conteneurs préinstallés.",
-		"containers-text": "Aurora Developer Experience inclut Docker et Podman, offrant choix et flexibilité pour les workflows conteneurs les plus exigeants.",
+		"containers": "Plateformes de conteneurs préinstallées.",
+		"containers-text": "Aurora Developer Experience intègre Docker et Podman, offrant choix et flexibilité pour les workflows conteneurs les plus exigeants.",
 		"containers-highlight": "Cloud-Native n'a jamais été aussi facile.",
 		"dev-tools": "Des outils de développement disponibles en un clic.",
 		"dev-tools-text": "L'expérience développeur intègre des outils de développement courants tels que VS Code et est préconfigurée pour les workflows de développement conteneurisés avec DevContainers. Une simple commande et les outils Jetbrains sont prêts.",
