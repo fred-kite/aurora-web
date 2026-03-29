@@ -245,7 +245,7 @@
 		"contribute-docs": "Contribuer à la documentation",
 		"read-docs": "Lire la documentation",
 		"community-title": "Communauté",
-		"community-text": "Nous avons des forums pour poser vos questions et discuter de sujets techniques, ou rejoignez notre serveur Discord pour dicuter avec la communauté Aurora.",
+		"community-text": "Nous avons des forums pour poser vos questions et discuter de sujets techniques, ou rejoignez notre serveur Discord pour échanger avec la communauté Aurora.",
 		"community-highlight": "Rejoignez la conversation.",
 		"visit-forums": "Visiter les forums",
 		"join-discord": "Rejoindre Discord"
@@ -271,9 +271,9 @@
 		"all-contributors-subtitle": "Tous ceux qui ont contribué du code au dépôt Aurora.",
 		"loading": "Chargement des contributeurs...",
 		"join-title": "Vous voulez contribuer ?",
-		"join-subtitle": "Toutes les formes de contributions sont les bienvenues : code, documentation, traductions, et plus !",
+		"join-subtitle": "Les contributions de toutes sortes sont les bienvenues : code, documentation, traductions, et plus !",
 		"contribute-github": "Contribuer sur GitHub",
-		"join-discord": "Rejoignez notre Discord",
+		"join-discord": "Rejoindre notre Discord",
 		"footer-note": "Merci à tous nos contributeurs qui rendent Aurora possible.",
 		"roles": {
 			"maintainer": "Mainteneur",
@@ -305,7 +305,7 @@
 			"wallpapers": "Fonds d'écran"
 		},
 		"contribute-title": "Partagez vos créations",
-		"contribute-description": "Aurora s'engage à soutenir l'art véritablement créé par des humains. Chaque mois, vous recevrez un nouveau fond d'écran. Vous voulez nous envoyer votre création ? Faites une PR sur notre dépôt de fonds d'écran et tous les utilisateurs pourront l'installer via brew. Si nous aimons votre travail, nous pourrions vous commander le fond d'écran officiel du mois prochain.",
+		"contribute-description": "Aurora s'engage à soutenir l'art créé par des humains. Chaque mois, vous recevrez un nouveau fond d'écran. Vous voulez nous envoyer votre création ? Faites une PR sur notre dépôt de fonds d'écran et tous les utilisateurs pourront l'installer via brew. Si nous aimons votre travail, nous pourrions vous commander le fond d'écran officiel du mois prochain.",
 		"contribute-button": "Soumettre un fond d'écran"
 	}
 }
