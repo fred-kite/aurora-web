@@ -38,15 +38,15 @@
 		"ready-to-download": "Prêt à télécharger",
 		"personalized-image": "Votre image Aurora personnalisée : ",
 		"developer-mode": "Version développeur",
-		"run-after-install": "après installation.",
+		"run-after-install": "après l'installation.",
 		"learn-more": "En savoir plus",
 		"rebasing": "Changer de base",
 		"image-name-will-be": "Le nom de votre image sera <bold>{name}</bold>.",
 		"slow-download": "Téléchargement lent ?",
 		"check-friends": "Découvrez nos amis chez",
 		"select-hardware-config": "Sélectionnez la configuration matérielle",
-		"choose-gpu": "Choisissez votre GPU ci-dessus pour continuer avec le téléchargement",
-		"run": "Exécuter"
+		"choose-gpu": "Choisissez votre GPU ci-dessus pour lancer le téléchargement",
+		"run": "Exécutez"
 	},
 	"Introduction": {
 		"title": "Aurora,",
@@ -122,7 +122,7 @@
 		"click-here": "Cliquez ici !",
 		"questions": {
 			"q1": {
-				"question": "Puis-je avoir GNOME avec ça ?",
+				"question": "Existe-t-il une version GNOME ?",
 				"answer": "Si vous préférez GNOME plutôt que KDE, installez Bluefin !",
 				"optionalLink": "https://projectbluefin.io"
 			},
@@ -133,7 +133,7 @@
 			},
 			"q3": {
 				"question": "Quelle est la différence entre Kinoite et Aurora ?",
-				"answer": "Kinoite offre une experience 'stock' et Aurora y ajoute de nombreuses améliorations et ajustements, comme des pilotes supplémentaires pour diverses imprimantes, adaptateurs réseau, manettes de jeu, des codecs, etc.",
+				"answer": "Kinoite offre une experience 'stock' et Aurora y ajoute de nombreuses améliorations et ajustements, comme des codecs, des pilotes supplémentaires pour des imprimantes, adaptateurs réseau, manettes de jeu, etc.",
 				"optionalLink": ""
 			},
 			"q4": {
@@ -163,7 +163,7 @@
 		"local-ai-highlight": "Les robots sont là pour vous servir.",
 		"containers": "Plateformes de conteneurs préinstallées.",
 		"containers-text": "Aurora Developer Experience intègre Docker et Podman, offrant choix et flexibilité pour les workflows conteneurs les plus exigeants.",
-		"containers-highlight": "Le cloud-native n'a jamais été aussi facile.",
+		"containers-highlight": "Le développement cloud-native n'a jamais été aussi facile.",
 		"dev-tools": "Des outils de développement disponibles en un clic.",
 		"dev-tools-text": "L'expérience développeur intègre des outils de développement courants tels que VS Code et est préconfigurée pour les workflows de développement DevContainers. Une simple commande et les outils Jetbrains sont prêts.",
 		"dev-tools-highlight": "Tout ce dont vous avez besoin, prêt à l'emploi.",
