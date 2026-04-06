@@ -28,6 +28,7 @@
 		"hardware-config": "Configuration matérielle & Téléchargement",
 		"gpu-description": "Sélectionnez votre GPU principal pour obtenir la version avec des pilotes préinstallés optimisés pour votre matériel.",
 		"intel-amd": "Intel / AMD",
+		"intel-amd-subtitle": "Intel / AMD · Pilotes Mesa",
 		"nvidia": "Nvidia (Série RTX/GTX 16xx)",
 		"installation-guide": "Guide d'installation",
 		"recommend-using": "Nous recommandons d'utiliser",
